@@ -1,0 +1,42 @@
+.input {
+    width: 300px;
+    border-radius: 5px;
+}
+
+.button {
+    color: white;
+    padding: 1px 20px;
+    border-radius: 5px;
+}
+.submit-button{
+    background: rgb(18, 42, 62);
+}
+.location-button {
+    background: rgb(80, 96, 21);
+    display: inline;
+}
+.button:hover {
+    background: rgb(34, 64, 87);
+}
+.city-main {
+font-size: 40px;
+}
+.day-main {
+    font-weight: 200;
+    color: rgb(84, 98, 97);
+}
+.image-main {
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+}
+.table {
+   margin: 0 auto;
+}
+.image {
+    width: 40px;
+}
+.temperature-main {
+    font-size: 140px;
+    font-weight: 100;
+}
